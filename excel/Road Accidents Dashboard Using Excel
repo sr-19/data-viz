@@ -1,1 +1,10 @@
+#Road Accidents Dashboard using Microsoft Excel
 
+Link of the dataset used: https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=drive_link&ouid=102254001962278332105&rtpof=true&sd=true
+Link of the dashboard created: https://docs.google.com/spreadsheets/d/10m126CtuHmnlAnPOCWtl3sxJ55MIk2bx/edit?usp=drive_link&ouid=102254001962278332105&rtpof=true&sd=true
+ 
+Steps involved:
+1. Data Cleaning—Making sure that no duplicates are found.
+2. Data Processing - Formatting the data according to the requirements
+3. Data Analysis and Data Visualisation—Creating pivot tables and visualising data using charts
+4. Creating a Dashboard - Placing all the visualisations together
